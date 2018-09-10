@@ -1,0 +1,7 @@
+C:\Users\todomensoxddd\source\repos\PrimerP\PrimerP\bin\Debug\PrimerP.exe.config
+C:\Users\todomensoxddd\source\repos\PrimerP\PrimerP\bin\Debug\PrimerP.exe
+C:\Users\todomensoxddd\source\repos\PrimerP\PrimerP\bin\Debug\PrimerP.pdb
+C:\Users\todomensoxddd\source\repos\PrimerP\PrimerP\obj\Debug\PrimerP.csprojAssemblyReference.cache
+C:\Users\todomensoxddd\source\repos\PrimerP\PrimerP\obj\Debug\PrimerP.csproj.CoreCompileInputs.cache
+C:\Users\todomensoxddd\source\repos\PrimerP\PrimerP\obj\Debug\PrimerP.exe
+C:\Users\todomensoxddd\source\repos\PrimerP\PrimerP\obj\Debug\PrimerP.pdb
