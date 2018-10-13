@@ -1,0 +1,7 @@
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 3\Tarea 3\bin\Debug\Tarea 3.exe.config
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 3\Tarea 3\bin\Debug\Tarea 3.exe
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 3\Tarea 3\bin\Debug\Tarea 3.pdb
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 3\Tarea 3\obj\Debug\Tarea 3.csprojAssemblyReference.cache
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 3\Tarea 3\obj\Debug\Tarea 3.csproj.CoreCompileInputs.cache
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 3\Tarea 3\obj\Debug\Tarea 3.exe
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 3\Tarea 3\obj\Debug\Tarea 3.pdb

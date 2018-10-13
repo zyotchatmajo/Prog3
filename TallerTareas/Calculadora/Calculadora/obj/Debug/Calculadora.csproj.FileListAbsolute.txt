@@ -1,0 +1,10 @@
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

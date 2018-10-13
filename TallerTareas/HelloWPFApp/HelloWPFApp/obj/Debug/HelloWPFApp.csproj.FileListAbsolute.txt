@@ -1,0 +1,15 @@
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\HelloWPFApp\HelloWPFApp\bin\Debug\HelloWPFApp.exe.config
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\HelloWPFApp\HelloWPFApp\bin\Debug\HelloWPFApp.exe
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\HelloWPFApp\HelloWPFApp\bin\Debug\HelloWPFApp.pdb
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.csprojAssemblyReference.cache
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\Greetings.g.cs
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\App.g.cs
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp_MarkupCompile.cache
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp_MarkupCompile.lref
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\Greetings.baml
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.g.resources
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.Properties.Resources.resources
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.csproj.GenerateResource.cache
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.csproj.CoreCompileInputs.cache
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.exe
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.pdb

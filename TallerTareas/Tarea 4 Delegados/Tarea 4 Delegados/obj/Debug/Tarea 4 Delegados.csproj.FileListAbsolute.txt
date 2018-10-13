@@ -1,0 +1,7 @@
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 4 Delegados\Tarea 4 Delegados\bin\Debug\Tarea 4 Delegados.exe.config
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 4 Delegados\Tarea 4 Delegados\bin\Debug\Tarea 4 Delegados.exe
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 4 Delegados\Tarea 4 Delegados\bin\Debug\Tarea 4 Delegados.pdb
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 4 Delegados\Tarea 4 Delegados\obj\Debug\Tarea 4 Delegados.csprojAssemblyReference.cache
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 4 Delegados\Tarea 4 Delegados\obj\Debug\Tarea 4 Delegados.csproj.CoreCompileInputs.cache
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 4 Delegados\Tarea 4 Delegados\obj\Debug\Tarea 4 Delegados.exe
+C:\Users\Hope\Documents\Visual Studio 2017\Projects\Tarea 4 Delegados\Tarea 4 Delegados\obj\Debug\Tarea 4 Delegados.pdb
