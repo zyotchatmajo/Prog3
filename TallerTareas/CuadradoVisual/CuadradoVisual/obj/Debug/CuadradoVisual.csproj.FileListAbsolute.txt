@@ -1,0 +1,10 @@
+C:\Users\todomensoxddd\source\repos\CuadradoVisual\CuadradoVisual\bin\Debug\CuadradoVisual.exe.config
+C:\Users\todomensoxddd\source\repos\CuadradoVisual\CuadradoVisual\bin\Debug\CuadradoVisual.exe
+C:\Users\todomensoxddd\source\repos\CuadradoVisual\CuadradoVisual\bin\Debug\CuadradoVisual.pdb
+C:\Users\todomensoxddd\source\repos\CuadradoVisual\CuadradoVisual\obj\Debug\CuadradoVisual.csprojAssemblyReference.cache
+C:\Users\todomensoxddd\source\repos\CuadradoVisual\CuadradoVisual\obj\Debug\CuadradoVisual.Form1.resources
+C:\Users\todomensoxddd\source\repos\CuadradoVisual\CuadradoVisual\obj\Debug\CuadradoVisual.Properties.Resources.resources
+C:\Users\todomensoxddd\source\repos\CuadradoVisual\CuadradoVisual\obj\Debug\CuadradoVisual.csproj.GenerateResource.cache
+C:\Users\todomensoxddd\source\repos\CuadradoVisual\CuadradoVisual\obj\Debug\CuadradoVisual.csproj.CoreCompileInputs.cache
+C:\Users\todomensoxddd\source\repos\CuadradoVisual\CuadradoVisual\obj\Debug\CuadradoVisual.exe
+C:\Users\todomensoxddd\source\repos\CuadradoVisual\CuadradoVisual\obj\Debug\CuadradoVisual.pdb
