@@ -1,0 +1,16 @@
+Dios - Entrada - 07/11/2018 09:15:17 a.m.
+Dios - Salida - 07/11/2018 09:15:18 a.m.
+Dios - Entrada - 07/11/2018 09:26:21 a.m.
+Dios - Salida - 07/11/2018 09:26:25 a.m.
+Pepe - Entrada - 07/11/2018 09:27:50 a.m.
+Pepe - Salida - 07/11/2018 09:28:48 a.m.
+Juan - Entrada - 07/11/2018 09:49:49 a.m.
+Juan - Salida - 07/11/2018 09:49:55 a.m.
+Ivan - Entrada - 07/11/2018 09:50:03 a.m.
+Ivan - Salida - 07/11/2018 09:50:08 a.m.
+Pepe - Entrada - 08/11/2018 09:28:52 a.m.
+Pepe - Salida - 08/11/2018 09:28:54 a.m.
+Juan - Entrada - 08/11/2018 09:29:09 a.m.
+Pepe - Entrada - 08/11/2018 09:29:12 a.m.
+Juan - Salida - 08/11/2018 09:29:19 a.m.
+Pepe - Salida - 08/11/2018 09:29:24 a.m.

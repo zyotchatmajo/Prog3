@@ -1,0 +1,7 @@
+C:\Users\todomensoxddd\source\repos\Custom Exception\Custom Exception\bin\Debug\Custom Exception.exe.config
+C:\Users\todomensoxddd\source\repos\Custom Exception\Custom Exception\bin\Debug\Custom Exception.exe
+C:\Users\todomensoxddd\source\repos\Custom Exception\Custom Exception\bin\Debug\Custom Exception.pdb
+C:\Users\todomensoxddd\source\repos\Custom Exception\Custom Exception\obj\Debug\Custom Exception.csprojAssemblyReference.cache
+C:\Users\todomensoxddd\source\repos\Custom Exception\Custom Exception\obj\Debug\Custom Exception.csproj.CoreCompileInputs.cache
+C:\Users\todomensoxddd\source\repos\Custom Exception\Custom Exception\obj\Debug\Custom Exception.exe
+C:\Users\todomensoxddd\source\repos\Custom Exception\Custom Exception\obj\Debug\Custom Exception.pdb

@@ -1,0 +1,30 @@
+C:\Users\todomensoxddd\source\repos\Ti ti ta\Ti ti ta\bin\Debug\Ti ti ta.exe.config
+C:\Users\todomensoxddd\source\repos\Ti ti ta\Ti ti ta\bin\Debug\Ti ti ta.exe
+C:\Users\todomensoxddd\source\repos\Ti ti ta\Ti ti ta\bin\Debug\Ti ti ta.pdb
+C:\Users\todomensoxddd\source\repos\Ti ti ta\Ti ti ta\obj\Debug\Ti ti ta.csprojAssemblyReference.cache
+C:\Users\todomensoxddd\source\repos\Ti ti ta\Ti ti ta\obj\Debug\Ti_ti_ta.Form1.resources
+C:\Users\todomensoxddd\source\repos\Ti ti ta\Ti ti ta\obj\Debug\Ti_ti_ta.Properties.Resources.resources
+C:\Users\todomensoxddd\source\repos\Ti ti ta\Ti ti ta\obj\Debug\Ti ti ta.csproj.GenerateResource.cache
+C:\Users\todomensoxddd\source\repos\Ti ti ta\Ti ti ta\obj\Debug\Ti ti ta.csproj.CoreCompileInputs.cache
+C:\Users\todomensoxddd\source\repos\Ti ti ta\Ti ti ta\obj\Debug\Ti ti ta.exe
+C:\Users\todomensoxddd\source\repos\Ti ti ta\Ti ti ta\obj\Debug\Ti ti ta.pdb
+C:\Users\Hope\Documents\SegundoParcialTT\Taller\Ejercicio 7 Reloj Checador\Ti ti ta\Ti ti ta\bin\Debug\Ti ti ta.exe.config
+C:\Users\Hope\Documents\SegundoParcialTT\Taller\Ejercicio 7 Reloj Checador\Ti ti ta\Ti ti ta\bin\Debug\Ti ti ta.exe
+C:\Users\Hope\Documents\SegundoParcialTT\Taller\Ejercicio 7 Reloj Checador\Ti ti ta\Ti ti ta\bin\Debug\Ti ti ta.pdb
+C:\Users\Hope\Documents\SegundoParcialTT\Taller\Ejercicio 7 Reloj Checador\Ti ti ta\Ti ti ta\obj\Debug\Ti ti ta.csprojAssemblyReference.cache
+C:\Users\Hope\Documents\SegundoParcialTT\Taller\Ejercicio 7 Reloj Checador\Ti ti ta\Ti ti ta\obj\Debug\Ti_ti_ta.Form1.resources
+C:\Users\Hope\Documents\SegundoParcialTT\Taller\Ejercicio 7 Reloj Checador\Ti ti ta\Ti ti ta\obj\Debug\Ti_ti_ta.Properties.Resources.resources
+C:\Users\Hope\Documents\SegundoParcialTT\Taller\Ejercicio 7 Reloj Checador\Ti ti ta\Ti ti ta\obj\Debug\Ti ti ta.csproj.GenerateResource.cache
+C:\Users\Hope\Documents\SegundoParcialTT\Taller\Ejercicio 7 Reloj Checador\Ti ti ta\Ti ti ta\obj\Debug\Ti ti ta.csproj.CoreCompileInputs.cache
+C:\Users\Hope\Documents\SegundoParcialTT\Taller\Ejercicio 7 Reloj Checador\Ti ti ta\Ti ti ta\obj\Debug\Ti ti ta.exe
+C:\Users\Hope\Documents\SegundoParcialTT\Taller\Ejercicio 7 Reloj Checador\Ti ti ta\Ti ti ta\obj\Debug\Ti ti ta.pdb
+C:\Users\Hope\Documents\SegundoParcialTT\Visual\Ejercicio 2 Multithread\Ti ti ta\Ti ti ta\bin\Debug\Ti ti ta.exe.config
+C:\Users\Hope\Documents\SegundoParcialTT\Visual\Ejercicio 2 Multithread\Ti ti ta\Ti ti ta\bin\Debug\Ti ti ta.exe
+C:\Users\Hope\Documents\SegundoParcialTT\Visual\Ejercicio 2 Multithread\Ti ti ta\Ti ti ta\bin\Debug\Ti ti ta.pdb
+C:\Users\Hope\Documents\SegundoParcialTT\Visual\Ejercicio 2 Multithread\Ti ti ta\Ti ti ta\obj\Debug\Ti ti ta.csprojAssemblyReference.cache
+C:\Users\Hope\Documents\SegundoParcialTT\Visual\Ejercicio 2 Multithread\Ti ti ta\Ti ti ta\obj\Debug\Ti_ti_ta.Form1.resources
+C:\Users\Hope\Documents\SegundoParcialTT\Visual\Ejercicio 2 Multithread\Ti ti ta\Ti ti ta\obj\Debug\Ti_ti_ta.Properties.Resources.resources
+C:\Users\Hope\Documents\SegundoParcialTT\Visual\Ejercicio 2 Multithread\Ti ti ta\Ti ti ta\obj\Debug\Ti ti ta.csproj.GenerateResource.cache
+C:\Users\Hope\Documents\SegundoParcialTT\Visual\Ejercicio 2 Multithread\Ti ti ta\Ti ti ta\obj\Debug\Ti ti ta.csproj.CoreCompileInputs.cache
+C:\Users\Hope\Documents\SegundoParcialTT\Visual\Ejercicio 2 Multithread\Ti ti ta\Ti ti ta\obj\Debug\Ti ti ta.exe
+C:\Users\Hope\Documents\SegundoParcialTT\Visual\Ejercicio 2 Multithread\Ti ti ta\Ti ti ta\obj\Debug\Ti ti ta.pdb
