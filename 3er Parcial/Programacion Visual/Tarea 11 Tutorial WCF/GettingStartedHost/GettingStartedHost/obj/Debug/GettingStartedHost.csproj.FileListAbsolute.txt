@@ -1,0 +1,11 @@
+C:\Users\todomensoxddd\source\repos\GettingStartedHost\GettingStartedHost\bin\Debug\GettingStartedHost.exe.config
+C:\Users\todomensoxddd\source\repos\GettingStartedHost\GettingStartedHost\bin\Debug\GettingStartedHost.exe
+C:\Users\todomensoxddd\source\repos\GettingStartedHost\GettingStartedHost\bin\Debug\GettingStartedHost.pdb
+C:\Users\todomensoxddd\source\repos\GettingStartedHost\GettingStartedHost\bin\Debug\GettingStartedLib.dll
+C:\Users\todomensoxddd\source\repos\GettingStartedHost\GettingStartedHost\bin\Debug\GettingStartedLib.pdb
+C:\Users\todomensoxddd\source\repos\GettingStartedHost\GettingStartedHost\bin\Debug\GettingStartedLib.dll.config
+C:\Users\todomensoxddd\source\repos\GettingStartedHost\GettingStartedHost\obj\Debug\GettingStartedHost.csprojAssemblyReference.cache
+C:\Users\todomensoxddd\source\repos\GettingStartedHost\GettingStartedHost\obj\Debug\GettingStartedHost.csproj.CoreCompileInputs.cache
+C:\Users\todomensoxddd\source\repos\GettingStartedHost\GettingStartedHost\obj\Debug\GettingStartedHost.csproj.CopyComplete
+C:\Users\todomensoxddd\source\repos\GettingStartedHost\GettingStartedHost\obj\Debug\GettingStartedHost.exe
+C:\Users\todomensoxddd\source\repos\GettingStartedHost\GettingStartedHost\obj\Debug\GettingStartedHost.pdb
